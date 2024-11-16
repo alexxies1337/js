@@ -83,4 +83,5 @@ footer {
 
 body {
     background:linear-gradient(white, lightgray, gray);
+ background-attachment: fixed;
 }
